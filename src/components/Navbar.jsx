@@ -5,7 +5,6 @@ import {
   HomeOutlined,
   MoneyCollectOutlined,
   BulbOutlined,
-  FyndOutlined,
   MenuOutlined,
   FundOutlined,
 } from "@ant-design/icons/lib/icons";
